@@ -16,7 +16,7 @@ def preprocess_data(df):
     """Xử lý dữ liệu Titanic."""
     
     # 1️⃣ Xóa cột không cần thiết
-    drop_cols = ['PassengerId', 'Name', 'Ticket', 'Cabin']
+    drop_cols = ['Name', 'Ticket', 'Cabin']
     df = df.drop(columns=drop_cols)
     mlflow.log_param("dropped_columns", drop_cols)
     

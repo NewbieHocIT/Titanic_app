@@ -40,11 +40,11 @@ def load_model_from_file(model_path):
         st.error(f"🚨 Không tìm thấy file mô hình: {model_path}")
         return None
 
-def preprocess_input(pclass, sex, age, sibsp, parch, fare, embarked):
+def preprocess_input(PassID,pclass, sex, age, sibsp, parch, fare, embarked):
     """ Tiền xử lý đầu vào cho mô hình. """
     sex = 0 if sex == "Male" else 1
     embarked = {"S": 0, "C": 1, "Q": 2}.get(embarked, -1)
-    input_data = np.array([[pclass, sex, age, sibsp, parch, fare, embarked]], dtype=np.float64)
+    input_data = np.array([[PassID,pclass, sex, age, sibsp, parch, fare, embarked]], dtype=np.float64)
     return input_data
 
 def get_mlflow_runs():
@@ -255,12 +255,13 @@ def main():
             embarked = st.selectbox("🔹 Embarked", ["S", "C", "Q"])
 
         with col2:
+            PassID = st.number_input("🔹 PassengerId", min_value=0, max_value=1000, value=1)
             sibsp = st.number_input("🔹 SibSp", min_value=0, max_value=10, value=0)
             parch = st.number_input("🔹 Parch", min_value=0, max_value=10, value=0)
             fare = st.number_input("🔹 Fare", min_value=0.0, max_value=500.0, value=32.0)
 
         # Tiền xử lý đầu vào
-        input_data = preprocess_input(pclass, sex, age, sibsp, parch, fare, embarked)
+        input_data = preprocess_input(PassID,pclass, sex, age, sibsp, parch, fare, embarked)
 
         # Load mô hình
         model_paths = {

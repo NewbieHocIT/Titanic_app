@@ -89,3 +89,5 @@ with mlflow.start_run():
     )
 
     print("✅ Mô hình đã được lưu và ghi log vào MLflow thành công!")
+    print(f"Số lượng features: {X_train.shape[1]}")
+

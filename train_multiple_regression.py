@@ -69,6 +69,8 @@ with mlflow.start_run() as run:
     mlflow.sklearn.log_model(multiple_regression_model, "multiple_regression_model", signature=signature, input_example=input_example)
 
     print(f"✅ Multiple Regression model saved to {model_path} and logged to MLflow.")
+    print(f"Số lượng features: {X_train.shape[1]}")
+
 
 ### ================== Polynomial Regression ==================
 with mlflow.start_run() as run:
