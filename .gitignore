@@ -1,0 +1,16 @@
+# Bỏ log của MLflow
+mlruns/
+mlruns/*
+
+# Bỏ file mô hình lớn (nếu không muốn đẩy)
+models/
+models/*.pkl
+
+# Bỏ cache Streamlit
+__pycache__/
+*.pyc
+*.pyo
+
+# Bỏ thư mục ảo
+venv/
+.env
