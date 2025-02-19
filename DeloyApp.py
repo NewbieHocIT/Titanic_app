@@ -187,7 +187,7 @@ def main():
         st.write(f"🔹 **Test:** {X_test.shape[0]} mẫu, {X_test.shape[1]} features")
 
         # Chọn mô hình để hiển thị kết quả
-        model_choice = st.selectbox("Chọn mô hình để hiển thị kết quả", ["Random Forest", "Linear Regression", "Polynomial Regression"])
+        model_choice = st.selectbox("Chọn mô hình để hiển thị kết quả", ["Random Forest", "Multiple Regression", "Polynomial Regression"])
 
         # Lấy thông tin từ MLflow
         runs = get_mlflow_runs()
@@ -212,7 +212,7 @@ def main():
                         "class_weighted avg_f1-score", "class_weighted avg_precision", "class_weighted avg_recall", "class_weighted avg_support",
                         "fold_1_accuracy", "fold_2_accuracy", "fold_3_accuracy", "fold_4_accuracy", "fold_5_accuracy", "test_accuracy"
                     ]
-                elif model_choice == "Linear Regression":
+                elif model_choice == "Multiple Regression":
                     selected_metrics = ["fold_1_r2", "fold_2_r2", "fold_3_r2", "fold_4_r2", "fold_5_r2", "test_mse", "test_r2"]
                 elif model_choice == "Polynomial Regression":
                     selected_metrics = ["fold_1_r2", "fold_2_r2", "fold_3_r2", "fold_4_r2", "fold_5_r2", "test_mse", "test_r2"]
@@ -265,7 +265,7 @@ def main():
         # Load mô hình
         model_paths = {
             "Random Forest": "models/random_forest.pkl",
-            "Multiple Regression": "models/linear_regression.pkl",
+            "Multiple Regression": "models/multiple_regression.pkl",
             "Polynomial Regression": "models/polynomial_regression.pkl"
         }
 

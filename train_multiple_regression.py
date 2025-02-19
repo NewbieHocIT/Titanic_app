@@ -29,29 +29,29 @@ mlflow.set_experiment("Multiple_vs_Polynomial_Regression")
 model_dir = "models"
 os.makedirs(model_dir, exist_ok=True)
 
-### ================== Linear Regression ==================
+### ================== Multiple Regression ==================
 with mlflow.start_run() as run:
-    print("\nTraining Linear Regression...")
+    print("\nTraining Multiple Regression...")
 
     # Khởi tạo mô hình
-    linear_regression_model = LinearRegression()
+    multiple_regression_model = LinearRegression()
     cv = KFold(n_splits=5, shuffle=True, random_state=42)
     
     # Cross Validation
-    cross_val_results = cross_val_score(linear_regression_model, X_train_full, y_train_full, cv=cv, scoring='r2')
+    cross_val_results = cross_val_score(multiple_regression_model, X_train_full, y_train_full, cv=cv, scoring='r2')
     
     # Log các tham số
-    mlflow.log_param("model_type", "Linear Regression")
+    mlflow.log_param("model_type", "Multiple Regression")
     
     # Log kết quả Cross Validation
     for i, score in enumerate(cross_val_results):
         mlflow.log_metric(f"fold_{i+1}_r2", score)
     
     # Train mô hình
-    linear_regression_model.fit(X_train_full, y_train_full)
+    multiple_regression_model.fit(X_train_full, y_train_full)
     
     # Dự đoán trên tập test
-    y_pred = linear_regression_model.predict(X_test)
+    y_pred = multiple_regression_model.predict(X_test)
     test_mse = mean_squared_error(y_test, y_pred)
     test_r2 = r2_score(y_test, y_pred)
     
@@ -60,15 +60,15 @@ with mlflow.start_run() as run:
     mlflow.log_metric("test_r2", test_r2)
     
     # ✅ Lưu mô hình vào thư mục models/
-    model_path = os.path.join(model_dir, "linear_regression.pkl")
-    joblib.dump(linear_regression_model, model_path)
+    model_path = os.path.join(model_dir, "multiple_regression.pkl")
+    joblib.dump(multiple_regression_model, model_path)
 
     # ✅ Log mô hình vào MLflow
     input_example = X_test.iloc[:5]
     signature = infer_signature(X_test, y_pred)
-    mlflow.sklearn.log_model(linear_regression_model, "linear_regression_model", signature=signature, input_example=input_example)
+    mlflow.sklearn.log_model(multiple_regression_model, "multiple_regression_model", signature=signature, input_example=input_example)
 
-    print(f"✅ Linear Regression model saved to {model_path} and logged to MLflow.")
+    print(f"✅ Multiple Regression model saved to {model_path} and logged to MLflow.")
 
 ### ================== Polynomial Regression ==================
 with mlflow.start_run() as run:
