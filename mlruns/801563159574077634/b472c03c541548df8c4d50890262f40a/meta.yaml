@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/b472c03c541548df8c4d50890262f40a/artifacts
+end_time: 1739786285933
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: b472c03c541548df8c4d50890262f40a
+run_name: painted-sloth-598
+run_uuid: b472c03c541548df8c4d50890262f40a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739786285838
+status: 3
+tags: []
+user_id: PC

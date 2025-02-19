@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/672779fd9b9c4d1b9bfaed005f5bf2b6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 672779fd9b9c4d1b9bfaed005f5bf2b6
+run_name: merciful-doe-179
+run_uuid: 672779fd9b9c4d1b9bfaed005f5bf2b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739420531780
+status: 1
+tags: []
+user_id: PC

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/913071785524597885/b9c6de9a2f474c5491658be1d562abc4/artifacts
+end_time: 1739959358069
+entry_point_name: ''
+experiment_id: '913071785524597885'
+lifecycle_stage: active
+run_id: b9c6de9a2f474c5491658be1d562abc4
+run_name: classy-ant-764
+run_uuid: b9c6de9a2f474c5491658be1d562abc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739959353426
+status: 3
+tags: []
+user_id: PC

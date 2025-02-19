@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/6f50b6a2af5c4203ad3a48c9c267d678/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: 6f50b6a2af5c4203ad3a48c9c267d678
+run_name: adaptable-mole-151
+run_uuid: 6f50b6a2af5c4203ad3a48c9c267d678
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739897343594
+status: 1
+tags: []
+user_id: PC

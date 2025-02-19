@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/b6c535cc6c3a4d6b91a3a30c68d5cbc0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: b6c535cc6c3a4d6b91a3a30c68d5cbc0
+run_name: serious-crow-196
+run_uuid: b6c535cc6c3a4d6b91a3a30c68d5cbc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739897438078
+status: 1
+tags: []
+user_id: PC

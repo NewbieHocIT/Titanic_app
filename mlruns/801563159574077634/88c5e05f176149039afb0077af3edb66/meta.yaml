@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/88c5e05f176149039afb0077af3edb66/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: 88c5e05f176149039afb0077af3edb66
+run_name: abundant-grouse-412
+run_uuid: 88c5e05f176149039afb0077af3edb66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739962925004
+status: 1
+tags: []
+user_id: PC

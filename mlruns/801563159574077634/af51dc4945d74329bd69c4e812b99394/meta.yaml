@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/af51dc4945d74329bd69c4e812b99394/artifacts
+end_time: 1739895091511
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: af51dc4945d74329bd69c4e812b99394
+run_name: dashing-snail-508
+run_uuid: af51dc4945d74329bd69c4e812b99394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739895091347
+status: 3
+tags: []
+user_id: PC

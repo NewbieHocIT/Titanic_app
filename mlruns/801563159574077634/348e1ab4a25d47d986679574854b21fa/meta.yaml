@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/348e1ab4a25d47d986679574854b21fa/artifacts
+end_time: 1739895091334
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: 348e1ab4a25d47d986679574854b21fa
+run_name: abrasive-skunk-837
+run_uuid: 348e1ab4a25d47d986679574854b21fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739895090990
+status: 3
+tags: []
+user_id: PC

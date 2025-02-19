@@ -1,0 +1,11 @@
+{
+  "Survived": 0,
+  "Pclass": 0,
+  "Age": 0,
+  "SibSp": 0,
+  "Parch": 0,
+  "Fare": 0,
+  "Sex_male": 0,
+  "Embarked_Q": 0,
+  "Embarked_S": 0
+}

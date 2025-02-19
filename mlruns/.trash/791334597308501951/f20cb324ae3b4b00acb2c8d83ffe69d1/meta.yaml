@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/791334597308501951/f20cb324ae3b4b00acb2c8d83ffe69d1/artifacts
+deleted_time: 1739783783697
+end_time: 1739616499904
+entry_point_name: ''
+experiment_id: '791334597308501951'
+lifecycle_stage: deleted
+run_id: f20cb324ae3b4b00acb2c8d83ffe69d1
+run_name: trusting-lamb-724
+run_uuid: f20cb324ae3b4b00acb2c8d83ffe69d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739616490686
+status: 3
+tags: []
+user_id: PC

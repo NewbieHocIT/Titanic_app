@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/619493783713236366/f7bc15887c454b3a8abe47aa155d3523/artifacts
+end_time: 1739788549587
+entry_point_name: ''
+experiment_id: '619493783713236366'
+lifecycle_stage: active
+run_id: f7bc15887c454b3a8abe47aa155d3523
+run_name: upset-ray-68
+run_uuid: f7bc15887c454b3a8abe47aa155d3523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739788549512
+status: 3
+tags: []
+user_id: PC

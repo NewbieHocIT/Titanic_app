@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/913071785524597885/12f03b436e194641a9af68d090f811bd/artifacts
+end_time: 1739963287873
+entry_point_name: ''
+experiment_id: '913071785524597885'
+lifecycle_stage: active
+run_id: 12f03b436e194641a9af68d090f811bd
+run_name: judicious-bat-313
+run_uuid: 12f03b436e194641a9af68d090f811bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739963281804
+status: 3
+tags: []
+user_id: PC

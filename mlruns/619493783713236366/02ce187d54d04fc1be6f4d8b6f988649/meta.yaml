@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/619493783713236366/02ce187d54d04fc1be6f4d8b6f988649/artifacts
+end_time: 1739789344118
+entry_point_name: ''
+experiment_id: '619493783713236366'
+lifecycle_stage: active
+run_id: 02ce187d54d04fc1be6f4d8b6f988649
+run_name: dashing-rat-960
+run_uuid: 02ce187d54d04fc1be6f4d8b6f988649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739789343584
+status: 3
+tags: []
+user_id: PC

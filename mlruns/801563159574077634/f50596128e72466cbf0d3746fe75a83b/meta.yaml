@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/f50596128e72466cbf0d3746fe75a83b/artifacts
+end_time: 1739897644927
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: f50596128e72466cbf0d3746fe75a83b
+run_name: abrasive-midge-953
+run_uuid: f50596128e72466cbf0d3746fe75a83b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739897644571
+status: 3
+tags: []
+user_id: PC

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/098e29365db3417dbfcbcfa8805c2085/artifacts
+end_time: 1739790132722
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 098e29365db3417dbfcbcfa8805c2085
+run_name: flawless-lynx-881
+run_uuid: 098e29365db3417dbfcbcfa8805c2085
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739790132670
+status: 3
+tags: []
+user_id: PC

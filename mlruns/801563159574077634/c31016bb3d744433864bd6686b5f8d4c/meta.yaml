@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/c31016bb3d744433864bd6686b5f8d4c/artifacts
+end_time: 1739897833708
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: c31016bb3d744433864bd6686b5f8d4c
+run_name: adaptable-gull-190
+run_uuid: c31016bb3d744433864bd6686b5f8d4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739897833537
+status: 3
+tags: []
+user_id: PC

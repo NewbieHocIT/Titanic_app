@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/619493783713236366/dc1bd4ce4d30432a9c1d4af57908ba5c/artifacts
+end_time: 1739788429338
+entry_point_name: ''
+experiment_id: '619493783713236366'
+lifecycle_stage: active
+run_id: dc1bd4ce4d30432a9c1d4af57908ba5c
+run_name: ambitious-frog-512
+run_uuid: dc1bd4ce4d30432a9c1d4af57908ba5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739788429288
+status: 3
+tags: []
+user_id: PC

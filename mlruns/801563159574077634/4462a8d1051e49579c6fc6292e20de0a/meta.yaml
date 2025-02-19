@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/4462a8d1051e49579c6fc6292e20de0a/artifacts
+end_time: 1739787970132
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: 4462a8d1051e49579c6fc6292e20de0a
+run_name: thundering-perch-645
+run_uuid: 4462a8d1051e49579c6fc6292e20de0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739787970059
+status: 4
+tags: []
+user_id: PC

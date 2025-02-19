@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/913071785524597885/88ebaa60c3294dfb814730bbd2f6d1b4/artifacts
+end_time: 1739960807158
+entry_point_name: ''
+experiment_id: '913071785524597885'
+lifecycle_stage: active
+run_id: 88ebaa60c3294dfb814730bbd2f6d1b4
+run_name: caring-trout-493
+run_uuid: 88ebaa60c3294dfb814730bbd2f6d1b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739960799891
+status: 3
+tags: []
+user_id: PC

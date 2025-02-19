@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/386075124545316382/eb10f37b557c4c098e88b34f8ebd807b/artifacts
+deleted_time: 1739783774527
+end_time: 1739773425735
+entry_point_name: ''
+experiment_id: '386075124545316382'
+lifecycle_stage: deleted
+run_id: eb10f37b557c4c098e88b34f8ebd807b
+run_name: abundant-carp-441
+run_uuid: eb10f37b557c4c098e88b34f8ebd807b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739773425610
+status: 3
+tags: []
+user_id: PC

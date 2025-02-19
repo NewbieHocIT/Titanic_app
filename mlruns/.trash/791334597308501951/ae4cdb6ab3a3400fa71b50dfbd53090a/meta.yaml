@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/791334597308501951/ae4cdb6ab3a3400fa71b50dfbd53090a/artifacts
+deleted_time: 1739783783697
+end_time: 1739616499166
+entry_point_name: ''
+experiment_id: '791334597308501951'
+lifecycle_stage: deleted
+run_id: ae4cdb6ab3a3400fa71b50dfbd53090a
+run_name: welcoming-calf-120
+run_uuid: ae4cdb6ab3a3400fa71b50dfbd53090a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739616489692
+status: 3
+tags: []
+user_id: PC

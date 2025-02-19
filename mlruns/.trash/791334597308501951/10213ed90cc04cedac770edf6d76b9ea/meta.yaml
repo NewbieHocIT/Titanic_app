@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/791334597308501951/10213ed90cc04cedac770edf6d76b9ea/artifacts
+deleted_time: 1739783783697
+end_time: 1739616384228
+entry_point_name: ''
+experiment_id: '791334597308501951'
+lifecycle_stage: deleted
+run_id: 10213ed90cc04cedac770edf6d76b9ea
+run_name: redolent-hog-670
+run_uuid: 10213ed90cc04cedac770edf6d76b9ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739616378184
+status: 3
+tags: []
+user_id: PC

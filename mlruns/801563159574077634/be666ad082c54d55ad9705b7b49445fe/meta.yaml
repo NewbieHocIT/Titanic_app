@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/be666ad082c54d55ad9705b7b49445fe/artifacts
+end_time: 1739895623213
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: be666ad082c54d55ad9705b7b49445fe
+run_name: chill-tern-850
+run_uuid: be666ad082c54d55ad9705b7b49445fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739895622985
+status: 3
+tags: []
+user_id: PC

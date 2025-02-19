@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4f2b97f1e982421ab401e3f53aa26bd7/artifacts
+end_time: 1739420288745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f2b97f1e982421ab401e3f53aa26bd7
+run_name: orderly-grub-47
+run_uuid: 4f2b97f1e982421ab401e3f53aa26bd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739420288623
+status: 3
+tags: []
+user_id: PC

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/386075124545316382/1d03ae8bdca4419db270794676e0de88/artifacts
+deleted_time: 1739783774527
+end_time: 1739423384001
+entry_point_name: ''
+experiment_id: '386075124545316382'
+lifecycle_stage: deleted
+run_id: 1d03ae8bdca4419db270794676e0de88
+run_name: popular-cow-482
+run_uuid: 1d03ae8bdca4419db270794676e0de88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739423383883
+status: 3
+tags: []
+user_id: PC

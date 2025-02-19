@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f07f6c042c6e400f963584adc28e30cf/artifacts
+end_time: 1739790235439
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f07f6c042c6e400f963584adc28e30cf
+run_name: adorable-cat-318
+run_uuid: f07f6c042c6e400f963584adc28e30cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739790235377
+status: 3
+tags: []
+user_id: PC

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/619493783713236366/f23cd4700a8b483fafff2592fde3c05e/artifacts
+end_time: 1739788686085
+entry_point_name: ''
+experiment_id: '619493783713236366'
+lifecycle_stage: active
+run_id: f23cd4700a8b483fafff2592fde3c05e
+run_name: omniscient-bug-964
+run_uuid: f23cd4700a8b483fafff2592fde3c05e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739788685114
+status: 3
+tags: []
+user_id: PC

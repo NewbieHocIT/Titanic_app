@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8decf2bca5274d1f9308fc725dd8e32e/artifacts
+end_time: 1739785567241
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8decf2bca5274d1f9308fc725dd8e32e
+run_name: omniscient-hare-992
+run_uuid: 8decf2bca5274d1f9308fc725dd8e32e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739785567189
+status: 3
+tags: []
+user_id: PC

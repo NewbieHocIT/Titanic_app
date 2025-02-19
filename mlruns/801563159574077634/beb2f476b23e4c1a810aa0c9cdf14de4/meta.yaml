@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/beb2f476b23e4c1a810aa0c9cdf14de4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: beb2f476b23e4c1a810aa0c9cdf14de4
+run_name: melodic-fox-331
+run_uuid: beb2f476b23e4c1a810aa0c9cdf14de4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739963640434
+status: 1
+tags: []
+user_id: PC

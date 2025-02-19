@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/128e714b1c4341bc96cb5c8c0fcc2c82/artifacts
+end_time: 1739787970019
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: 128e714b1c4341bc96cb5c8c0fcc2c82
+run_name: big-wasp-974
+run_uuid: 128e714b1c4341bc96cb5c8c0fcc2c82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739787969939
+status: 3
+tags: []
+user_id: PC

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/bd43fef999fd40d380f3d4db0defdd40/artifacts
+end_time: 1739783322757
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: bd43fef999fd40d380f3d4db0defdd40
+run_name: resilient-zebra-466
+run_uuid: bd43fef999fd40d380f3d4db0defdd40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739783322479
+status: 4
+tags: []
+user_id: PC

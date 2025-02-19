@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/31a69e8b72d3409b8c64a90ccaf20318/artifacts
+end_time: 1739787109565
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: 31a69e8b72d3409b8c64a90ccaf20318
+run_name: stylish-kit-602
+run_uuid: 31a69e8b72d3409b8c64a90ccaf20318
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739787109468
+status: 3
+tags: []
+user_id: PC

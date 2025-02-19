@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/fd07bec845dc42ae8a401bfeeefa5225/artifacts
+end_time: 1739897657322
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: fd07bec845dc42ae8a401bfeeefa5225
+run_name: unequaled-yak-112
+run_uuid: fd07bec845dc42ae8a401bfeeefa5225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739897657137
+status: 3
+tags: []
+user_id: PC

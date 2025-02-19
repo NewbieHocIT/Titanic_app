@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/619493783713236366/f0b8784c9282498180f3324f39aa519b/artifacts
+end_time: 1739789031701
+entry_point_name: ''
+experiment_id: '619493783713236366'
+lifecycle_stage: active
+run_id: f0b8784c9282498180f3324f39aa519b
+run_name: resilient-sow-529
+run_uuid: f0b8784c9282498180f3324f39aa519b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739789031654
+status: 3
+tags: []
+user_id: PC

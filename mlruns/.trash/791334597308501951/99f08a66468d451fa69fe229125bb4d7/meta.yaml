@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/791334597308501951/99f08a66468d451fa69fe229125bb4d7/artifacts
+deleted_time: 1739783783697
+end_time: 1739616347278
+entry_point_name: ''
+experiment_id: '791334597308501951'
+lifecycle_stage: deleted
+run_id: 99f08a66468d451fa69fe229125bb4d7
+run_name: casual-seal-845
+run_uuid: 99f08a66468d451fa69fe229125bb4d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739616335250
+status: 3
+tags: []
+user_id: PC

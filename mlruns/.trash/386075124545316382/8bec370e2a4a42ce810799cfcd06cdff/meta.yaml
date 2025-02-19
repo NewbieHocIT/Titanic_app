@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/386075124545316382/8bec370e2a4a42ce810799cfcd06cdff/artifacts
+deleted_time: 1739420710519
+end_time: 1739418025630
+entry_point_name: ''
+experiment_id: '386075124545316382'
+lifecycle_stage: deleted
+run_id: 8bec370e2a4a42ce810799cfcd06cdff
+run_name: amazing-foal-990
+run_uuid: 8bec370e2a4a42ce810799cfcd06cdff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739418025574
+status: 4
+tags: []
+user_id: PC

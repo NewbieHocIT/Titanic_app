@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/efdbf2c062ab446a82c6a598af2c13d0/artifacts
+end_time: 1739786401340
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: efdbf2c062ab446a82c6a598af2c13d0
+run_name: glamorous-skunk-843
+run_uuid: efdbf2c062ab446a82c6a598af2c13d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739786395841
+status: 3
+tags: []
+user_id: PC

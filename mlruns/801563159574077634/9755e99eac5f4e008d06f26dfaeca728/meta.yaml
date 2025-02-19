@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/9755e99eac5f4e008d06f26dfaeca728/artifacts
+end_time: 1739787080896
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: 9755e99eac5f4e008d06f26dfaeca728
+run_name: orderly-boar-801
+run_uuid: 9755e99eac5f4e008d06f26dfaeca728
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739787080818
+status: 4
+tags: []
+user_id: PC

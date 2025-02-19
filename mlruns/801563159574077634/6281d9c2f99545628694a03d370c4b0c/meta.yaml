@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/6281d9c2f99545628694a03d370c4b0c/artifacts
+end_time: 1739897084863
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: 6281d9c2f99545628694a03d370c4b0c
+run_name: sassy-lark-870
+run_uuid: 6281d9c2f99545628694a03d370c4b0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739897084703
+status: 3
+tags: []
+user_id: PC

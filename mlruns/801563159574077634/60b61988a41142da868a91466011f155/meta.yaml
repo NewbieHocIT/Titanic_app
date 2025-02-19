@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/60b61988a41142da868a91466011f155/artifacts
+end_time: 1739787124664
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: 60b61988a41142da868a91466011f155
+run_name: fortunate-quail-651
+run_uuid: 60b61988a41142da868a91466011f155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739787124572
+status: 4
+tags: []
+user_id: PC

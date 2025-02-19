@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/9ec6e63dd9cd4ad6b0a2e1dd2d74b297/artifacts
+end_time: 1739783256005
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: 9ec6e63dd9cd4ad6b0a2e1dd2d74b297
+run_name: popular-shoat-420
+run_uuid: 9ec6e63dd9cd4ad6b0a2e1dd2d74b297
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739783255705
+status: 4
+tags: []
+user_id: PC

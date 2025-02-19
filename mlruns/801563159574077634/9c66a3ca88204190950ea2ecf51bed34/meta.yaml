@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/9c66a3ca88204190950ea2ecf51bed34/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: 9c66a3ca88204190950ea2ecf51bed34
+run_name: nebulous-cow-351
+run_uuid: 9c66a3ca88204190950ea2ecf51bed34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739962159815
+status: 1
+tags: []
+user_id: PC

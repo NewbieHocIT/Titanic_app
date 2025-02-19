@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/de2e2ac20b944b2eb121cdfc4d263716/artifacts
+end_time: 1739895357177
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: de2e2ac20b944b2eb121cdfc4d263716
+run_name: redolent-gnat-311
+run_uuid: de2e2ac20b944b2eb121cdfc4d263716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739895357011
+status: 3
+tags: []
+user_id: PC

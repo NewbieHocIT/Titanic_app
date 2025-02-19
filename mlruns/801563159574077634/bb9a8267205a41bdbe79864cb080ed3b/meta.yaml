@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/bb9a8267205a41bdbe79864cb080ed3b/artifacts
+end_time: 1739962345812
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: bb9a8267205a41bdbe79864cb080ed3b
+run_name: useful-rook-985
+run_uuid: bb9a8267205a41bdbe79864cb080ed3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739962338253
+status: 3
+tags: []
+user_id: PC

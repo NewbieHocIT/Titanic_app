@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/791334597308501951/c66a0eea3a9d48ca998c84c8a59d7b8c/artifacts
+deleted_time: 1739783783697
+end_time: 1739616129212
+entry_point_name: ''
+experiment_id: '791334597308501951'
+lifecycle_stage: deleted
+run_id: c66a0eea3a9d48ca998c84c8a59d7b8c
+run_name: fun-rat-278
+run_uuid: c66a0eea3a9d48ca998c84c8a59d7b8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739616122815
+status: 3
+tags: []
+user_id: PC

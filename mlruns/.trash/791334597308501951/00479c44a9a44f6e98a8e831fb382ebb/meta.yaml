@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/791334597308501951/00479c44a9a44f6e98a8e831fb382ebb/artifacts
+deleted_time: 1739783783697
+end_time: 1739616344333
+entry_point_name: ''
+experiment_id: '791334597308501951'
+lifecycle_stage: deleted
+run_id: 00479c44a9a44f6e98a8e831fb382ebb
+run_name: upbeat-turtle-409
+run_uuid: 00479c44a9a44f6e98a8e831fb382ebb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739616332313
+status: 3
+tags: []
+user_id: PC

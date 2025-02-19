@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/1c045b02a73a446e9b3696cd1c16db57/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: 1c045b02a73a446e9b3696cd1c16db57
+run_name: welcoming-perch-635
+run_uuid: 1c045b02a73a446e9b3696cd1c16db57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739961091884
+status: 1
+tags: []
+user_id: PC

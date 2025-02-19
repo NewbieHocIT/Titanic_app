@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/7e2b2a384e7e4d23975ec74323aeaecb/artifacts
+end_time: 1739896917466
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: 7e2b2a384e7e4d23975ec74323aeaecb
+run_name: stylish-shrew-940
+run_uuid: 7e2b2a384e7e4d23975ec74323aeaecb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739896917257
+status: 3
+tags: []
+user_id: PC

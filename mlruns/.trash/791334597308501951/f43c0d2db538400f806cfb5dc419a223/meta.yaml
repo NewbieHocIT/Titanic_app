@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/791334597308501951/f43c0d2db538400f806cfb5dc419a223/artifacts
+deleted_time: 1739783783697
+end_time: 1739616346016
+entry_point_name: ''
+experiment_id: '791334597308501951'
+lifecycle_stage: deleted
+run_id: f43c0d2db538400f806cfb5dc419a223
+run_name: abrasive-mule-840
+run_uuid: f43c0d2db538400f806cfb5dc419a223
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739616332823
+status: 3
+tags: []
+user_id: PC

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/e06901412a9c413899226ee0ef93398d/artifacts
+end_time: 1739896917245
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: e06901412a9c413899226ee0ef93398d
+run_name: abrasive-smelt-52
+run_uuid: e06901412a9c413899226ee0ef93398d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739896916746
+status: 3
+tags: []
+user_id: PC

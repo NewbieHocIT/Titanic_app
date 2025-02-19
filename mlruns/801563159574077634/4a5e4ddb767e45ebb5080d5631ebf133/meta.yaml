@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/4a5e4ddb767e45ebb5080d5631ebf133/artifacts
+end_time: 1739896928285
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: 4a5e4ddb767e45ebb5080d5631ebf133
+run_name: stately-mouse-252
+run_uuid: 4a5e4ddb767e45ebb5080d5631ebf133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739896928141
+status: 3
+tags: []
+user_id: PC

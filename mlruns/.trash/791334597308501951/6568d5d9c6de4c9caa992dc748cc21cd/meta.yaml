@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/791334597308501951/6568d5d9c6de4c9caa992dc748cc21cd/artifacts
+deleted_time: 1739783783697
+end_time: 1739616345004
+entry_point_name: ''
+experiment_id: '791334597308501951'
+lifecycle_stage: deleted
+run_id: 6568d5d9c6de4c9caa992dc748cc21cd
+run_name: incongruous-hog-206
+run_uuid: 6568d5d9c6de4c9caa992dc748cc21cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739616332440
+status: 3
+tags: []
+user_id: PC

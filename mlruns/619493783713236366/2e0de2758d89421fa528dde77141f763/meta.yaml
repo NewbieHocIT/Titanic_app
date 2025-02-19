@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/619493783713236366/2e0de2758d89421fa528dde77141f763/artifacts
+end_time: 1739789175843
+entry_point_name: ''
+experiment_id: '619493783713236366'
+lifecycle_stage: active
+run_id: 2e0de2758d89421fa528dde77141f763
+run_name: luminous-conch-581
+run_uuid: 2e0de2758d89421fa528dde77141f763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739789175749
+status: 3
+tags: []
+user_id: PC

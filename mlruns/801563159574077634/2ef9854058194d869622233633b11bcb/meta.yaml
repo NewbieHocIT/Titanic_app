@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/2ef9854058194d869622233633b11bcb/artifacts
+end_time: 1739897894403
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: 2ef9854058194d869622233633b11bcb
+run_name: youthful-trout-219
+run_uuid: 2ef9854058194d869622233633b11bcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739897893974
+status: 3
+tags: []
+user_id: PC

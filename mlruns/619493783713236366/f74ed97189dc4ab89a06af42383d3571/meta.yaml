@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/619493783713236366/f74ed97189dc4ab89a06af42383d3571/artifacts
+end_time: 1739789031764
+entry_point_name: ''
+experiment_id: '619493783713236366'
+lifecycle_stage: active
+run_id: f74ed97189dc4ab89a06af42383d3571
+run_name: burly-doe-907
+run_uuid: f74ed97189dc4ab89a06af42383d3571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739789031241
+status: 3
+tags: []
+user_id: PC

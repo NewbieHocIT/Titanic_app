@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/c682452d211b430a86fc88af469f84ed/artifacts
+end_time: 1739789624352
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: c682452d211b430a86fc88af469f84ed
+run_name: redolent-eel-394
+run_uuid: c682452d211b430a86fc88af469f84ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739789617052
+status: 3
+tags: []
+user_id: PC

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/619493783713236366/97e3cd8a21104f83a8e4b75e2c426adb/artifacts
+end_time: 1739788294485
+entry_point_name: ''
+experiment_id: '619493783713236366'
+lifecycle_stage: active
+run_id: 97e3cd8a21104f83a8e4b75e2c426adb
+run_name: useful-crane-465
+run_uuid: 97e3cd8a21104f83a8e4b75e2c426adb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739788272854
+status: 3
+tags: []
+user_id: PC

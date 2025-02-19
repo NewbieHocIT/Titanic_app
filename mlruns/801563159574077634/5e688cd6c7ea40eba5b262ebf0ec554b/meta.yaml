@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/5e688cd6c7ea40eba5b262ebf0ec554b/artifacts
+end_time: 1739897759292
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: 5e688cd6c7ea40eba5b262ebf0ec554b
+run_name: aged-ray-728
+run_uuid: 5e688cd6c7ea40eba5b262ebf0ec554b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739897759121
+status: 3
+tags: []
+user_id: PC

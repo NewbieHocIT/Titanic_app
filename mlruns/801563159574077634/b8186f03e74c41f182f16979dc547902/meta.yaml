@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/b8186f03e74c41f182f16979dc547902/artifacts
+end_time: 1739897838623
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: b8186f03e74c41f182f16979dc547902
+run_name: bouncy-doe-820
+run_uuid: b8186f03e74c41f182f16979dc547902
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739897838440
+status: 3
+tags: []
+user_id: PC

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/386075124545316382/dd9ed033e9524b27af31f32c3475bd73/artifacts
+deleted_time: 1739783774527
+end_time: 1739421607265
+entry_point_name: ''
+experiment_id: '386075124545316382'
+lifecycle_stage: deleted
+run_id: dd9ed033e9524b27af31f32c3475bd73
+run_name: zealous-bug-770
+run_uuid: dd9ed033e9524b27af31f32c3475bd73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739421607172
+status: 3
+tags: []
+user_id: PC

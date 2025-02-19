@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/ac23f544c91c4386b9c476037fe558fe/artifacts
+end_time: 1739895648967
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: ac23f544c91c4386b9c476037fe558fe
+run_name: powerful-boar-180
+run_uuid: ac23f544c91c4386b9c476037fe558fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739895648537
+status: 3
+tags: []
+user_id: PC

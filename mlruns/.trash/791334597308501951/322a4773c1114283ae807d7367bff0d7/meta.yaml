@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/791334597308501951/322a4773c1114283ae807d7367bff0d7/artifacts
+deleted_time: 1739783783697
+end_time: 1739616320262
+entry_point_name: ''
+experiment_id: '791334597308501951'
+lifecycle_stage: deleted
+run_id: 322a4773c1114283ae807d7367bff0d7
+run_name: salty-eel-504
+run_uuid: 322a4773c1114283ae807d7367bff0d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739616313848
+status: 3
+tags: []
+user_id: PC

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/386075124545316382/46ede3ac10fc41ef84e2953f73fac2ec/artifacts
+deleted_time: 1739783774527
+end_time: 1739778101863
+entry_point_name: ''
+experiment_id: '386075124545316382'
+lifecycle_stage: deleted
+run_id: 46ede3ac10fc41ef84e2953f73fac2ec
+run_name: marvelous-hound-19
+run_uuid: 46ede3ac10fc41ef84e2953f73fac2ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739778101776
+status: 3
+tags: []
+user_id: PC

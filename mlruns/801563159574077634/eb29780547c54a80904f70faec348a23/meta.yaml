@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/eb29780547c54a80904f70faec348a23/artifacts
+end_time: 1739897265067
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: eb29780547c54a80904f70faec348a23
+run_name: hilarious-foal-977
+run_uuid: eb29780547c54a80904f70faec348a23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739897264715
+status: 3
+tags: []
+user_id: PC

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/619493783713236366/c521f28c3beb4d43af4a58d05ca15424/artifacts
+end_time: 1739789031764
+entry_point_name: ''
+experiment_id: '619493783713236366'
+lifecycle_stage: active
+run_id: c521f28c3beb4d43af4a58d05ca15424
+run_name: dapper-toad-247
+run_uuid: c521f28c3beb4d43af4a58d05ca15424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739789031717
+status: 3
+tags: []
+user_id: PC

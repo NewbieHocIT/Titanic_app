@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/5f97da3bde674e37b7d4d16b51d0761c/artifacts
+end_time: 1739896044707
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: 5f97da3bde674e37b7d4d16b51d0761c
+run_name: loud-snail-750
+run_uuid: 5f97da3bde674e37b7d4d16b51d0761c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739896044551
+status: 3
+tags: []
+user_id: PC

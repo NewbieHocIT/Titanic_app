@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/598b588e507d4abea681e3a777b1c5e7/artifacts
+end_time: 1739789988374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 598b588e507d4abea681e3a777b1c5e7
+run_name: salty-roo-869
+run_uuid: 598b588e507d4abea681e3a777b1c5e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739789988333
+status: 3
+tags: []
+user_id: PC

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/cfd11407ce5941f18a3f83fa16dc30fa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: cfd11407ce5941f18a3f83fa16dc30fa
+run_name: loud-ray-867
+run_uuid: cfd11407ce5941f18a3f83fa16dc30fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739962904969
+status: 1
+tags: []
+user_id: PC

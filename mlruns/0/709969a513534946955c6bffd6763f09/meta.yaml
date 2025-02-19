@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/709969a513534946955c6bffd6763f09/artifacts
+end_time: 1739420650633
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 709969a513534946955c6bffd6763f09
+run_name: peaceful-skink-689
+run_uuid: 709969a513534946955c6bffd6763f09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739420650571
+status: 3
+tags: []
+user_id: PC

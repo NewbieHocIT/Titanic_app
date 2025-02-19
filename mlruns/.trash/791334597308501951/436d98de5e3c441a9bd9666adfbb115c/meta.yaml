@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/791334597308501951/436d98de5e3c441a9bd9666adfbb115c/artifacts
+deleted_time: 1739783783697
+end_time: 1739616499734
+entry_point_name: ''
+experiment_id: '791334597308501951'
+lifecycle_stage: deleted
+run_id: 436d98de5e3c441a9bd9666adfbb115c
+run_name: fun-mare-521
+run_uuid: 436d98de5e3c441a9bd9666adfbb115c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739616490540
+status: 3
+tags: []
+user_id: PC

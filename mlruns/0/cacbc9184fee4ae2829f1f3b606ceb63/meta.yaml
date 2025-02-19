@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cacbc9184fee4ae2829f1f3b606ceb63/artifacts
+end_time: 1739421217867
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cacbc9184fee4ae2829f1f3b606ceb63
+run_name: trusting-mink-771
+run_uuid: cacbc9184fee4ae2829f1f3b606ceb63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739421217816
+status: 3
+tags: []
+user_id: PC

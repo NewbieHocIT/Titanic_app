@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/913071785524597885/486461f67c504cc7b48e5abdf0863ac9/artifacts
+end_time: 1739960812052
+entry_point_name: ''
+experiment_id: '913071785524597885'
+lifecycle_stage: active
+run_id: 486461f67c504cc7b48e5abdf0863ac9
+run_name: rare-snail-344
+run_uuid: 486461f67c504cc7b48e5abdf0863ac9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739960807173
+status: 3
+tags: []
+user_id: PC

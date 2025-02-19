@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/8d9458bab4394f3589cf83d09ef71490/artifacts
+end_time: 1739896044539
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: 8d9458bab4394f3589cf83d09ef71490
+run_name: suave-donkey-39
+run_uuid: 8d9458bab4394f3589cf83d09ef71490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739896044138
+status: 3
+tags: []
+user_id: PC

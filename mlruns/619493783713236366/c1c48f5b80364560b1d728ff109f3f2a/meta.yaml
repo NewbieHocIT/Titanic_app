@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/619493783713236366/c1c48f5b80364560b1d728ff109f3f2a/artifacts
+end_time: 1739788045538
+entry_point_name: ''
+experiment_id: '619493783713236366'
+lifecycle_stage: active
+run_id: c1c48f5b80364560b1d728ff109f3f2a
+run_name: enchanting-bee-131
+run_uuid: c1c48f5b80364560b1d728ff109f3f2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739788045492
+status: 3
+tags: []
+user_id: PC

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/ee09ab9a0964490c9857a6e1e8586bc0/artifacts
+end_time: 1739897734842
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: ee09ab9a0964490c9857a6e1e8586bc0
+run_name: bedecked-zebra-249
+run_uuid: ee09ab9a0964490c9857a6e1e8586bc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739897728997
+status: 3
+tags: []
+user_id: PC

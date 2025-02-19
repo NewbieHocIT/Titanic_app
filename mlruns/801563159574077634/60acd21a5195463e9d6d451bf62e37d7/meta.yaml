@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/60acd21a5195463e9d6d451bf62e37d7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: 60acd21a5195463e9d6d451bf62e37d7
+run_name: whimsical-squid-953
+run_uuid: 60acd21a5195463e9d6d451bf62e37d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739790386714
+status: 1
+tags: []
+user_id: PC

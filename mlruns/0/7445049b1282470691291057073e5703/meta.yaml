@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7445049b1282470691291057073e5703/artifacts
+end_time: 1739421285190
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7445049b1282470691291057073e5703
+run_name: burly-grub-275
+run_uuid: 7445049b1282470691291057073e5703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739421285125
+status: 3
+tags: []
+user_id: PC

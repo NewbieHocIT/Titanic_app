@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/e5896cd2c26247e782a483801bd5cc1a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: e5896cd2c26247e782a483801bd5cc1a
+run_name: calm-horse-864
+run_uuid: e5896cd2c26247e782a483801bd5cc1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739962810489
+status: 1
+tags: []
+user_id: PC

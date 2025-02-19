@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/b02bb6e321884cfbb17eebce0896db85/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: b02bb6e321884cfbb17eebce0896db85
+run_name: inquisitive-kite-50
+run_uuid: b02bb6e321884cfbb17eebce0896db85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739963525482
+status: 1
+tags: []
+user_id: PC

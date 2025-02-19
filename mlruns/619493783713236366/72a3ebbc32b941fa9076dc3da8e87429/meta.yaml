@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/619493783713236366/72a3ebbc32b941fa9076dc3da8e87429/artifacts
+end_time: 1739788549699
+entry_point_name: ''
+experiment_id: '619493783713236366'
+lifecycle_stage: active
+run_id: 72a3ebbc32b941fa9076dc3da8e87429
+run_name: omniscient-snake-705
+run_uuid: 72a3ebbc32b941fa9076dc3da8e87429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739788548806
+status: 3
+tags: []
+user_id: PC

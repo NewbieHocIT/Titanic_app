@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/TraThanhTri/PYthon/TriTraThanh/MLvsPython/mlruns/801563159574077634/4a80831fe08549f6b6b71c662951887c/artifacts
+end_time: 1739787266870
+entry_point_name: ''
+experiment_id: '801563159574077634'
+lifecycle_stage: active
+run_id: 4a80831fe08549f6b6b71c662951887c
+run_name: capricious-flea-696
+run_uuid: 4a80831fe08549f6b6b71c662951887c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739787260731
+status: 3
+tags: []
+user_id: PC

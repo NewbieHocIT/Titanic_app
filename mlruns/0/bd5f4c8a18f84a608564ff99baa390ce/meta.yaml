@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bd5f4c8a18f84a608564ff99baa390ce/artifacts
+end_time: 1739785116765
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd5f4c8a18f84a608564ff99baa390ce
+run_name: loud-dog-223
+run_uuid: bd5f4c8a18f84a608564ff99baa390ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739785116719
+status: 3
+tags: []
+user_id: PC

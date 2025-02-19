@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8f88767c06114b2d80722d5d846a57ec/artifacts
+end_time: 1739420773143
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f88767c06114b2d80722d5d846a57ec
+run_name: languid-rook-204
+run_uuid: 8f88767c06114b2d80722d5d846a57ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739420773080
+status: 3
+tags: []
+user_id: PC
